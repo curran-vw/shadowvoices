@@ -1,0 +1,12 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Author avatar for Raj Kapoor, AI tooling reviewer at ShadowVoices">
+  <defs>
+    <linearGradient id="rkring" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="60" fill="#0A0A0F"/>
+  <circle cx="60" cy="60" r="56" fill="none" stroke="url(#rkring)" stroke-width="2"/>
+  <circle cx="60" cy="60" r="48" fill="#14141C"/>
+  <text x="60" y="74" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="36" fill="#00E5FF" letter-spacing="-1">RK</text>
+</svg>

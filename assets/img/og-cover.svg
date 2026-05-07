@@ -1,0 +1,32 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="ShadowVoices: AI Call Tracking Software 2026 — comparison cover">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0A0F"/>
+      <stop offset="1" stop-color="#06060A"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="0.7" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgg)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="url(#hl)"/>
+  <text x="80" y="120" font-family="JetBrains Mono, monospace" font-weight="600" font-size="18" fill="#00E5FF" letter-spacing="2">SHADOWVOICES &#x2013; AI VOICE INTEL &#x2022; 2026</text>
+  <text x="80" y="220" font-family="Inter, sans-serif" font-weight="800" font-size="76" fill="#E8E8EE" letter-spacing="-3">AI Call Tracking</text>
+  <text x="80" y="300" font-family="Inter, sans-serif" font-weight="800" font-size="76" fill="#E8E8EE" letter-spacing="-3">Software for 2026</text>
+  <rect x="80" y="335" width="60" height="3" fill="#00E5FF"/>
+  <text x="80" y="390" font-family="Inter, sans-serif" font-weight="400" font-size="22" fill="#B6B6C2">An AI-tooling reviewer ranks five conversation intelligence platforms</text>
+  <text x="80" y="420" font-family="Inter, sans-serif" font-weight="400" font-size="22" fill="#B6B6C2">on intent classification, transcription latency, and per-number economics.</text>
+  <g transform="translate(80 490)">
+    <rect width="660" height="100" rx="6" fill="#14141C" stroke="#23232E"/>
+    <rect x="0" y="0" width="3" height="100" fill="#00E5FF"/>
+    <text x="20" y="34" font-family="JetBrains Mono, monospace" font-size="13" fill="#7C7C8A">our pick</text>
+    <text x="170" y="34" font-family="JetBrains Mono, monospace" font-weight="600" font-size="13" fill="#00E5FF">CallScaler &#x2014; bundled AI transcription</text>
+    <text x="20" y="58" font-family="JetBrains Mono, monospace" font-size="13" fill="#7C7C8A">number rate</text>
+    <text x="170" y="58" font-family="JetBrains Mono, monospace" font-weight="600" font-size="13" fill="#00E5FF">$0.50/mo (vs ~$3 industry)</text>
+    <text x="20" y="82" font-family="JetBrains Mono, monospace" font-size="13" fill="#7C7C8A">latency</text>
+    <text x="170" y="82" font-family="JetBrains Mono, monospace" font-weight="600" font-size="13" fill="#A855F7">sub-300ms transcription</text>
+  </g>
+  <text x="80" y="600" font-family="JetBrains Mono, monospace" font-size="13" fill="#5C5C66">shadowvoices.com</text>
+</svg>
